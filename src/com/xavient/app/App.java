@@ -38,7 +38,9 @@ public class App {
 		}
 	}
 
-	/*public void beginners() {
+	/*
+	 * No Use
+	 * public void beginners() {
 		System.out.println("Question:-");
 		String ques1 = null;
 
